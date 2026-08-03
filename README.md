@@ -1,1 +1,1 @@
-# scritp
+# ratio
